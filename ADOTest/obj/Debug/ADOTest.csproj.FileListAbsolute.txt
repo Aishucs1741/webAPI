@@ -1,0 +1,12 @@
+C:\Users\admin\source\repos\ASHADO\ADOTest\bin\Debug\ADOTest.dll.config
+C:\Users\admin\source\repos\ASHADO\ADOTest\bin\Debug\ADOTest.dll
+C:\Users\admin\source\repos\ASHADO\ADOTest\bin\Debug\ADOTest.pdb
+C:\Users\admin\source\repos\ASHADO\ADOTest\bin\Debug\EntityFramework.dll
+C:\Users\admin\source\repos\ASHADO\ADOTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\source\repos\ASHADO\ADOTest\bin\Debug\EntityFramework.xml
+C:\Users\admin\source\repos\ASHADO\ADOTest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\source\repos\ASHADO\ADOTest\obj\Debug\ADOTest.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\ASHADO\ADOTest\obj\Debug\ADOTest.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\ASHADO\ADOTest\obj\Debug\ADOTest.csproj.CopyComplete
+C:\Users\admin\source\repos\ASHADO\ADOTest\obj\Debug\ADOTest.dll
+C:\Users\admin\source\repos\ASHADO\ADOTest\obj\Debug\ADOTest.pdb
